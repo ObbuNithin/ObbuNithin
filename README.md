@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obbu Nithin</h1>
-<h3 align="center">Passionate engineering student from RV College of Engineering with a deep-seated interest in coding and technology</h3>
+<h3 align="center">Passionate Engineering student from RV College of Engineering with a deep-seated interest in coding and technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obbunithin&label=Profile%20views&color=0e75b6&style=flat" alt="obbunithin" /> </p>
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/obbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithin obbu" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/obbu](https://www.linkedin.com/in/obbuvenkatasainithin/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithin obbu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technology Stack:</h3>
